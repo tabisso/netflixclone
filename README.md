@@ -8,8 +8,7 @@ This project demonstrates frontend development skills, API integration, componen
 
 ## 🚀 Live Demo
 
-👉 *Add your deployed link here*
-Example: https://teddymovies.netlify.app/
+👉  deployed link : https://teddymovies.netlify.app/
 
 
 
