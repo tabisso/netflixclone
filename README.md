@@ -146,3 +146,4 @@ npm run build
 This project is created for educational and portfolio purposes only.
 Netflix branding and movie data belong to their respective owners.
 create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Minor improvements
