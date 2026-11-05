@@ -137,7 +137,7 @@ npm run build
 **Tewodros Abisso**
 
 * GitHub: https://github.com/tabisso
-* Portfolio: tedstack.dev
+* Portfolio: https://www.tedstack.dev
 
 ---
 
